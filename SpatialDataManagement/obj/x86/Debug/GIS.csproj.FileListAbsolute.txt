@@ -1,0 +1,154 @@
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.GetSymbol.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AttributesContextMenu.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.ScreenDisplay.ScreenDisplayDraw.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.地图的组成.样式符号库.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间参考.CoordinateTransformation2D.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间参考.DataTableReport.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间参考.LayerDataToXML.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间参考.ReportOptionDialog.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.BrowseStyleSymbols.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.ClassBreaksRendererSymbol.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.ColorRampForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.DotDensitySymbols.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.GetSymbolByControl.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.GraduatedColorSymbols.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.GraduatedSymbols.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.MatchFieldValue2Symbol.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.ProportionalSymbols.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.SelectSymbolByControl.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.SingleSymbol.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.StatisticsSymbols.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.SymbolizationByLayerPropPage.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.UniqueValuesSymbol.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.地图标注.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\SpatialEditor.CheckinForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\SpatialEditor.CheckoutForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.CreateFeatureForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\CoordinateTransformation.GDB2GDB.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.simple.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.UpdateFeaturesForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.鹰眼.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\GIS3\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.GetSymbol.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AttributesContextMenu.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.BrowseStyleSymbols.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.ClassBreaksRendererSymbol.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.ColorRampForm.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.DotDensitySymbols.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.GetSymbolByControl.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.GraduatedColorSymbols.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.GraduatedSymbols.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.MatchFieldValue2Symbol.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.ProportionalSymbols.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.SelectSymbolByControl.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.SingleSymbol.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.StatisticsSymbols.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.SymbolizationByLayerPropPage.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.UniqueValuesSymbol.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.地图标注.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\SpatialEditor.CheckinForm.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\SpatialEditor.CheckoutForm.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.CreateFeatureForm.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\CoordinateTransformation.GDB2GDB.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.NetworkDatasetfrom.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.simple.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.UpdateFeaturesForm.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.鹰眼.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.Alter_SpatialReference.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.Dataset对象.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.拷贝数据库.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.Set_Data_Source.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.Create_Table.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.ObjectClassForm.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.CreateFeatureClassForm.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.UpdateFeatureForm.resources
+C:\Documents and Settings\Administrator\桌面\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.ConvertShapefileToFeatClass.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.GetSymbol.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AttributesContextMenu.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.BrowseStyleSymbols.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.ClassBreaksRendererSymbol.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.ColorRampForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.DotDensitySymbols.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.GetSymbolByControl.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.GraduatedColorSymbols.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.GraduatedSymbols.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.MatchFieldValue2Symbol.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.ProportionalSymbols.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.SelectSymbolByControl.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.SingleSymbol.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.StatisticsSymbols.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.SymbolizationByLayerPropPage.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.UniqueValuesSymbol.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据符号化.地图标注.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.Alter_SpatialReference.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\SpatialEditor.CheckinForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\SpatialEditor.CheckoutForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.ConnectGBDForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.Create_Table.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.CreateFeatureClassForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.CreateFeatureForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.ObjectClassForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\CoordinateTransformation.GDB2GDB.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.NetworkDatasetfrom.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.Set_Data_Source.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.UpdateFeatureForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.UpdateFeaturesForm.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.拷贝数据库.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.ConvertShapefileToFeatClass.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.鹰眼.resources
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.RelationshipClassForm.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.GetSymbol.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AttributesContextMenu.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.Alter_SpatialReference.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.ConnectGBDForm.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.Create_Table.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.CreateFeatureClassForm.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.CreateFeatureForm.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.ObjectClassForm.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\CoordinateTransformation.GDB2GDB.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.NetworkDatasetfrom.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.RelationshipClassForm.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.Set_Data_Source.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.UpdateFeatureForm.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.UpdateFeaturesForm.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.空间数据管理.ConvertShapefileToFeatClass.resources
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\zhangguofeng\Desktop\不要删-GIS\LAST EDIT\空间数据管理\MapControlApplication1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\zhangguofeng\Desktop\后天用\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+C:\Users\zhangguofeng\Desktop\后天用\空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb

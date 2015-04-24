@@ -1,0 +1,99 @@
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\MapControlApplication1.exe
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\MapControlApplication1.pdb
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\bin\Debug\MapControlApplication1.exe
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\bin\Debug\MapControlApplication1.pdb
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.GetSymbol.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.AttributesContextMenu.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.MainForm.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.Properties.Resources.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.Alter_SpatialReference.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.ConnectGBDForm.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.Create_Table.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.CreateFeatureClassForm.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.CreateFeatureForm.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.ObjectClassForm.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\CoordinateTransformation.GDB2GDB.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.NetworkDatasetfrom.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.RelationshipClassForm.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.Set_Data_Source.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.UpdateFeatureForm.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.UpdateFeaturesForm.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.ConvertShapefileToFeatClass.resources
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\gis应用开发\New\ArcObjects 应用开发源代码\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\MapControlApplication1.exe
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\MapControlApplication1.pdb
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\bin\Debug\MapControlApplication1.exe
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\bin\Debug\MapControlApplication1.pdb
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.GetSymbol.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.AttributesContextMenu.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.MainForm.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.Properties.Resources.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.Alter_SpatialReference.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.ConnectGBDForm.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.Create_Table.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.CreateFeatureClassForm.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.CreateFeatureForm.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.ObjectClassForm.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\CoordinateTransformation.GDB2GDB.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.NetworkDatasetfrom.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.RelationshipClassForm.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.Set_Data_Source.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.UpdateFeatureForm.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.UpdateFeaturesForm.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.ConvertShapefileToFeatClass.resources
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\GISApplicationDeveloping\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\MapControlApplication1.exe
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\MapControlApplication1.pdb
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.GetSymbol.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.AttributesContextMenu.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.MainForm.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.Properties.Resources.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.Alter_SpatialReference.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.ConnectGBDForm.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.Create_Table.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.CreateFeatureClassForm.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.CreateFeatureForm.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.ObjectClassForm.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\CoordinateTransformation.GDB2GDB.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.NetworkDatasetfrom.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.RelationshipClassForm.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.Set_Data_Source.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.UpdateFeatureForm.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.UpdateFeaturesForm.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.ConvertShapefileToFeatClass.resources
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.csproj.GenerateResource.Cache
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\bin\Debug\MapControlApplication1.exe
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\bin\Debug\MapControlApplication1.pdb
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\bin\Debug\ESRI.ArcGIS.SOESupport.dll
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\bin\Debug\ESRI.ArcGIS.SOESupport.xml
+G:\XTingFile\SourceCodes\Chap.07--空间数据管理\SpatialDataManagement\bin\Debug\MapControlApplication1.exe.config
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\bin\Debug\MapControlApplication1.exe.config
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\MapControlApplication1.exe
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\MapControlApplication1.pdb
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\bin\Debug\MapControlApplication1.exe
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\bin\Debug\MapControlApplication1.pdb
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.csprojResolveAssemblyReference.cache
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.GetSymbol.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.AttributesContextMenu.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.MainForm.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.Properties.Resources.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.Alter_SpatialReference.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.ConnectGBDForm.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.Create_Table.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.CreateFeatureClassForm.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.CreateFeatureForm.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.ObjectClassForm.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\CoordinateTransformation.GDB2GDB.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.NetworkDatasetfrom.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.RelationshipClassForm.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.Set_Data_Source.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.UpdateFeatureForm.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.UpdateFeaturesForm.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.空间数据管理.ConvertShapefileToFeatClass.resources
+C:\Users\FireWarship\Desktop\SourceCodes_ArcObjects10.1版-2013-07-16\Chap.07--空间数据管理\SpatialDataManagement\obj\x86\Debug\SpatialDataManagement.csproj.GenerateResource.Cache
